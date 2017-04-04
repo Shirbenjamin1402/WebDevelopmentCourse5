@@ -1,0 +1,39 @@
+body 
+{
+
+    direction:rtl;
+    text-align:center;
+   font:bold 16px calibri;
+   color:#ffffff;
+     background-image:url(..//pink-floyd-artwork_wallpprs.com_.jpg);
+   background-size:2000px;
+   text-shadow: 2px 2px 4px #F0F7FF;
+   -webkit-transition: background 4s linear;
+-moz-transition: background 4s linear;
+-ms-transition: background 4s linear;
+-o-transition: background 4s linear;
+transition: background 4s linear;
+
+    }
+
+.name{color:#daa65c}
+.myClass { color:#de5858;
+           text-align:center;
+           list-style-type:none;
+           
+}
+section {
+    text-align: center;
+  width: 490px;
+    border: 0px solid #cc58be;
+    padding: 10px;
+    margin-right: 500px;
+    
+}
+h1:hover{
+    color:#2e74d2;
+}
+h2:hover{
+    color:#cc58be;
+
+}
